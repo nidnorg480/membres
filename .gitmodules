@@ -1,0 +1,3 @@
+[submodule "membres"]
+	path = membres
+	url = https://github.com/nidnorg480/membres.git
